@@ -1,0 +1,7 @@
+questão da ultima prova feito em dupla de introdução a programação:
+
+-o programa deve inserir elementos de forma ordenara
+-fazer uma busca binária
+-imprimir elementos
+
+não lembro o resto da questão
